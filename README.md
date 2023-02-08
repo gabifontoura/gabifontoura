@@ -18,6 +18,4 @@ Entre em contato:
     <img align="center" alt="Gabi-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Gabi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>  
-  <br>
-  <br>
-  <img align="center" alt="Gabi-Avatar" height="100" src="https://user-images.githubusercontent.com/110035918/217393963-cf22b139-5fbd-4c2f-aa5c-8e5667699b28.png">
+  
