@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gabriela Fontoura, Desenvolvedora Front-End
+## Olá! Eu sou Gabi Fontoura, Desenvolvedora Front-End
 
 Atualmente estou fazendo um curso de 2000h horas de Desenvolvimento Web Full Stack e que abrange soft skills na Kenzie Academy
 Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, React, Node.js, Python (Django e Flask) e SQL(Postgre).
