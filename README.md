@@ -1,5 +1,6 @@
 ## Olá! Eu sou Gabi Fontoura, 
-   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=A+Web+Developer;Mostly+FrontEnd;UX/UI+Designer;Cat+lover;">
+   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=A+Web+Developer;Mostly+FrontEnd;also+
+curious+about+backEnd;Designer+by+Unesp;and+Cat+lover;">
 
 Atualmente estou fazendo um curso de 2000h horas de Desenvolvimento Web Full Stack e que abrange soft skills na Kenzie Academy
 Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, React, Node.js, Python (Django e Flask) e SQL(Postgre).
