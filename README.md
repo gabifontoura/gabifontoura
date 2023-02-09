@@ -4,9 +4,7 @@
 Atualmente estou fazendo um curso de 2000h horas de Desenvolvimento Web FullStack, que abrange as principais soft skills necessárias para o mercado de trabalho, na Kenzie Academy.
 Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, React, Node.js, Python (Django e Flask) e SQL(Postgre).
 
-Entre em contato: 
-<br>
-<br>
+### Entre em contato: 
   <a href = "mailto:gabigfontoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-garcia-fontoura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
