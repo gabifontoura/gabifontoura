@@ -2,7 +2,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=A+Web+Developer;Mostly+FrontEnd;also+curious+about+BackEnd;Designer+from+Unesp;and+Cat+lover;">
 
 Atualmente estou fazendo um curso de 2000h horas de Desenvolvimento Web FullStack, que abrange as principais soft skills necessárias para o mercado de trabalho, na Kenzie Academy.<br>
-Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, React, Node.js, Python (Django e Flask) e SQL(Postgre).
+Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, Typescript, React, Node.js, Python (Django e Flask) e SQL(Postgre).
 
 ### Entre em contato: 
   <a href = "mailto:gabigfontoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
