@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gabi Fontoura, 
    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=A+Web+Developer;Bachelor's+in+Design;at+Unesp;Eager+to+learn;FrontEnd+and+BackEnd;">
 
-Meu interesse por tecnologia surgiu durante o barachelado em design, quando participei de uma palestra extracurricular sobre UX/UI, isso despertou em mim a curiosidade em descobrir como funciona o desenvolvimento de software. Depois de pesquisar muito por conta própria e fazer alguns cursos online, decidi me aprofundar ainda mais e fui atrás do meu brilho no olho! Comecei um curso de 2.000 h de Desenvolvimento Web Full Stack, na Kenzie Academy Brasil, que abrange tecnologias FrontEnd e BackEnd e Soft Skills necessárias para o mercado de trabalho para migrar de carreira, atualmente estou quase concluindo e vejo um oceano de possibilidades de projetos e oportunidades que estão por vir.<br><br>
+Designer em transição de carreira. Meu interesse por desenvolvimento de software surgiu durante a faculdade, em uma palestra sobre UX/UI, que despertou em mim a curiosidade de descobrir mais sobre desenvolvimento de software. Assim segui estudando por conta própria, até decidir mudar de carreira. Desenvolvi projetos FrontEnd e BackEnd e também em equipe utilizando Scrum e exercitando as Soft Skills no curso de Desenvolvimento Web Full Stack, na Kenzie Academy Brasil. Atualmente estou quase concluindo, empolgada com os projetos e oportunidades que estão por vir.<br><br>
 Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, Typescript, React, Node.js, Python (Django) e SQL(Postgre).
 
 ### Entre em contato: 
