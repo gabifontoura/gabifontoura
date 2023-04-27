@@ -2,7 +2,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=A+Web+Developer;Bachelor's+in+Design;at+Unesp;Eager+to+learn;FrontEnd+and+BackEnd;">
 
 Meu interesse por tecnologia surgiu durante o barachelado em design, quando participei de uma palestra extracurricular sobre UX/UI, isso despertou em mim a curiosidade em descobrir como funciona o desenvolvimento de software. Depois de pesquisar muito por conta própria e fazer alguns cursos online, decidi me aprofundar ainda mais e fui atrás do meu brilho no olho! Comecei um curso de 2.000 h de Desenvolvimento Web Full Stack, na Kenzie Academy Brasil, que abrange tecnologias FrontEnd e BackEnd e Soft Skills necessárias para o mercado de trabalho para migrar de carreira, atualmente estou quase concluindo e vejo um oceano de possibilidades de projetos e oportunidades que estão por vir.<br><br>
-Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, Typescript, React, Node.js, Python (Django e Flask) e SQL(Postgre).
+Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, Typescript, React, Node.js, Python (Django) e SQL(Postgre).
 
 ### Entre em contato: 
    <a href="mailto:gabigfontoura@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
