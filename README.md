@@ -20,7 +20,6 @@ Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, Typescript, React, Node.js, Pytho
       <img align="center" alt="Express" height="25" width="35"  title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="center" alt="Gabi-Postgre" height="25" width="35" title="PostgreSQL"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="Python" height="25" width="35" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Flask" height="25" width="35" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
       <img align="center" alt="Django"height="25" width="35" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
       <img align="center" alt="npm" height="25" width="35" title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
       <img align="center" alt="yarn" height="25" width="35" title="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" 
