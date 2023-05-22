@@ -12,7 +12,7 @@ Designer em transição de carreira, graduada pela UNESP. Meu interesse por dese
 > ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
 > ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 > ![Next.js](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=)
-> ![Styled Components](https://img.shields.io/badge/styled--components-a28?style=for-the-badge&logo=styled-components&logoColor=)
+> ![Styled Components](https://img.shields.io/badge/styled--components-a28?style=for-the-badge&logo=styled-components&logoColor=fff)
 
 > Back End
 > 
@@ -27,7 +27,7 @@ Designer em transição de carreira, graduada pela UNESP. Meu interesse por dese
 > ![Git](https://img.shields.io/badge/GIT-ddd?style=for-the-badge&logo=git&logoColor=)
 > ![Yarn](https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=61DAFB)
 > ![Trello](https://img.shields.io/badge/Trello-114?style=for-the-badge&logo=trello&logoColor=)
-> ![Jira](https://img.shields.io/badge/Jira-550?style=for-the-badge&logo=jira&logoColor=f7df1e)
+> ![Jira](https://img.shields.io/badge/Jira-550?style=for-the-badge&logo=jira&logoColor=fff)
 > ![VsCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 > ![Figma](https://img.shields.io/badge/Figma-82f?style=for-the-badge&logo=figma&logoColor=fff)
 
