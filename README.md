@@ -1,13 +1,42 @@
 ## Olá! Eu sou Gabi Fontoura, 
    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=A+Web+Developer;Bachelor's+in+Design;at+Unesp;Eager+to+learn;FrontEnd+and+BackEnd;">
 
-Designer em transição de carreira. Meu interesse por desenvolvimento de software surgiu durante a faculdade, em uma palestra sobre UX/UI, que despertou em mim a curiosidade de descobrir como funcionava dali em diante. Assim, sigo estudando. Desenvolvi projetos FrontEnd e BackEnd e também em equipe utilizando Scrum e exercitando as Soft Skills no curso de Desenvolvimento Web Full Stack, na Kenzie Academy Brasil. Atualmente estou quase concluindo, empolgada com os projetos e oportunidades que estão por vir.<br><br>
-Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, Typescript, React, Node.js, Python (Django) e SQL(Postgre).
+Designer em transição de carreira, graduada pela UNESP. Meu interesse por desenvolvimento de software surgiu durante a faculdade, em uma palestra sobre UX/UI, que despertou em mim a curiosidade pelo código. Gostei muito mais dessa área e assim, sigo estudando. Desenvolvi projetos FrontEnd e BackEnd e também em equipe utilizando Scrum e exercitando as Soft Skills e conhecimentos que adquiri no curso de Desenvolvimento Web Full Stack, na Kenzie Academy Brasil. Ainda não decidi em qual me especializar, aceito oportunidades de Frontend ou Backend. Remoto ou híbrido para São Paulo. Atualmente estou quase concluindo o curso, empolgada com os projetos e oportunidades que estão por vir.<br><br>
+
+## Stack:
+> Front End
+>
+> ![HTML](https://img.shields.io/badge/HTML-200?style=for-the-badge&logo=html5&logoColor=a00)
+> ![CSS](https://img.shields.io/badge/CSS-002?style=for-the-badge&logo=css3&logoColor=0af)
+> ![Javascript](https://img.shields.io/badge/JavaScript-550?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+> ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+> ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> ![Next.js](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=)
+> ![Styled Components](https://img.shields.io/badge/styled--components-a28?style=for-the-badge&logo=styled-components&logoColor=)
+
+> Back End
+> 
+> ![NodeJS](https://img.shields.io/badge/Node.js-379237?style=for-the-badge&logo=node.js&logoColor=fff)
+> ![Express](https://img.shields.io/badge/Express-ddd?style=for-the-badge&logo=express&logoColor=000)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-200?style=for-the-badge&logo=postgresql&logoColor=fff)
+> ![Python](https://img.shields.io/badge/Python-fd0?style=for-the-badge&logo=python&logoColor=)
+> ![Django](https://img.shields.io/badge/Django-150?style=for-the-badge&logo=django&logoColor=)
+
+> More
+> 
+> ![Git](https://img.shields.io/badge/GIT-ddd?style=for-the-badge&logo=git&logoColor=)
+> ![Yarn](https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=61DAFB)
+> ![Trello](https://img.shields.io/badge/Trello-114?style=for-the-badge&logo=trello&logoColor=)
+> ![Jira](https://img.shields.io/badge/Jira-550?style=for-the-badge&logo=jira&logoColor=f7df1e)
+> ![VsCode](https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+> ![Figma](https://img.shields.io/badge/Figma-82f?style=for-the-badge&logo=figma&logoColor=fff)
+
+
 
 ### Entre em contato: 
    <a href="mailto:gabigfontoura@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriela-garcia-fontoura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<!-- 
   <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="25" width="35" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="25" width="35" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,5 +58,5 @@ Stack: HTML5, CSS3, JavaScript (ES6+) Vanilla, Typescript, React, Node.js, Pytho
        <img align="center" alt="Trello" height="25" width="35" title="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
       <img align="center" alt="Slack" height="25" width="35" title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"> 
    <img align="center" alt="VSCode" height="25" width="35" title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </div>  
+  </div>   -->
   
