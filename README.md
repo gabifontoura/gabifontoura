@@ -16,10 +16,10 @@ Designer em transição de carreira, graduada pela UNESP. Meu interesse por dese
 
 > Back End
 > 
-> ![NodeJS](https://img.shields.io/badge/Node.js-379237?style=for-the-badge&logo=node.js&logoColor=fff)
+> ![NodeJS](https://img.shields.io/badge/Node.js-150?style=for-the-badge&logo=node.js&logoColor=fff)
 > ![Express](https://img.shields.io/badge/Express-ddd?style=for-the-badge&logo=express&logoColor=000)
-> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-200?style=for-the-badge&logo=postgresql&logoColor=fff)
-> ![Python](https://img.shields.io/badge/Python-fd0?style=for-the-badge&logo=python&logoColor=)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
+> ![Python](https://img.shields.io/badge/Python-550?style=for-the-badge&logo=python&logoColor=fff)
 > ![Django](https://img.shields.io/badge/Django-150?style=for-the-badge&logo=django&logoColor=)
 
 > More
