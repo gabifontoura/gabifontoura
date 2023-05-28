@@ -6,28 +6,28 @@ Designer em transição de carreira, graduada pela UNESP. Meu interesse por dese
 ## Stack:
 > Front End
 >
-> ![HTML](https://img.shields.io/badge/HTML-200?style=for-the-badge&logo=html5&logoColor=a00)
-> ![CSS](https://img.shields.io/badge/CSS-002?style=for-the-badge&logo=css3&logoColor=0af)
-> ![Javascript](https://img.shields.io/badge/JavaScript-550?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+> ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=a00)
+> ![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=0af)
+> ![Javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 > ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-> ![Next.js](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=)
-> ![Styled Components](https://img.shields.io/badge/styled--components-a28?style=for-the-badge&logo=styled-components&logoColor=fff)
+> ![Next.js](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=)
+> ![Styled Components](https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=)
 
 > Back End
 > 
-> ![NodeJS](https://img.shields.io/badge/Node.js-150?style=for-the-badge&logo=node.js&logoColor=fff)
-> ![Express](https://img.shields.io/badge/Express-ddd?style=for-the-badge&logo=express&logoColor=000)
-> ![PostgreSQL](https://img.shields.io/badge/Postgre--SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
-> ![Python](https://img.shields.io/badge/Python-550?style=for-the-badge&logo=python&logoColor=fff)
-> ![Django](https://img.shields.io/badge/Django-150?style=for-the-badge&logo=django&logoColor=)
+> ![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=150)
+> ![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=fff)
+> ![PostgreSQL](https://img.shields.io/badge/Postgre--SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=0af)
+> ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=)
+> ![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=)
 
 > More
 > 
-> ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
-> ![Git](https://img.shields.io/badge/GIT-ddd?style=for-the-badge&logo=git&logoColor=)
-> ![Trello](https://img.shields.io/badge/Trello-114?style=for-the-badge&logo=trello&logoColor=)
-> ![Jira](https://img.shields.io/badge/Jira-550?style=for-the-badge&logo=jira&logoColor=fff)
-> ![Figma](https://img.shields.io/badge/Figma-82f?style=for-the-badge&logo=figma&logoColor=fff)
+> ![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=0af)
+> ![Git](https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=)
+> ![Trello](https://img.shields.io/badge/Trello-20232A?style=for-the-badge&logo=trello&logoColor=)
+> ![Jira](https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=jira&logoColor=fff)
+> ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=)
 
 
 
