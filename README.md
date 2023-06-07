@@ -11,7 +11,9 @@ Designer em transição de carreira. Meu interesse por desenvolvimento de softwa
 > ![Javascript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 > ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 > ![Next.js](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=)
+> ![Tailwind](https://img.shields.io/badge/tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=)
 > ![Styled Components](https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=)
+
 
 > Back End
 > 
