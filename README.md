@@ -3,7 +3,7 @@
 
 Designer em transição de carreira. Meu interesse por desenvolvimento de software surgiu ao estudar sobre UX/UI, tive curiosidade pelo código. Gostei muito e sigo estudando. Acho sensacional aprender como funciona o processo todo. Tenho desenvolvido projetos FrontEnd e BackEnd e alguns em equipe utilizando Scrum, Trello, Jira e exercitando as Soft Skills e conhecimentos que adquiri no curso de Desenvolvimento Web Full Stack, na Kenzie Academy Brasil. Atualmente estou quase concluindo o curso, empolgada com os projetos e oportunidades que estão por vir.<br><br>
 
-## Stack:
+## Tenho experiência com:
 > Front End
 >
 > ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=a00)
