@@ -1,7 +1,11 @@
-## Hello! I'm Gabi Fontoura, 
-   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=+Web+Developer+&+Designer;10y+hands-on+experience">
 
-## Experience:
+   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=Hello!+I'm+Gabi+Fontoura;">
+   
+##  Web Developer and Designer
+
+#### 10y+ hands-on experience designing
+
+## Stack:
 > Front End
 >
 > ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=a00)
@@ -20,7 +24,9 @@
 > ![PostgreSQL](https://img.shields.io/badge/Postgre--SQL-20232A?style=for-the-badge&logo=postgresql&logoColor=0af)
 > ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=)
 > ![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=)
-
+> ![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=PHP&logoColor=)
+> ![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=)
+> 
 > More
 > 
 > ![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=0af)
@@ -28,6 +34,9 @@
 > ![Trello](https://img.shields.io/badge/Trello-20232A?style=for-the-badge&logo=trello&logoColor=)
 > ![Jira](https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=jira&logoColor=fff)
 > ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=)
+> ![Framer](https://img.shields.io/badge/Framer-20232A?style=for-the-badge&logo=framer&logoColor=)
+> ![Claude](https://img.shields.io/badge/Claude-20232A?style=for-the-badge&logo=claude&logoColor=)
+> ![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=)
 
 
 
