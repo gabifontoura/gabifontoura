@@ -3,7 +3,7 @@
    
 ##  Web Developer and Designer
 
-#### 10y+ hands-on experience designing
+#### 10y+ hands-on experience designing and 3y+ coding
 
 ## Stack:
 > Front End
