@@ -1,5 +1,5 @@
 ## Hello! I'm Gabi Fontoura, 
-   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=+Web+Developer;Designer+and+FrontEnd;">
+   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=d089ff&size=27&left=true&vCenter=true&lines=+Web+Developer+&+Designer;10y+hands-on+experience">
 
 ## Experience:
 > Front End
